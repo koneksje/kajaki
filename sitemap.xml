@@ -1,57 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://responsive-muse.com/index.html</loc>
-    <lastmod>2022-05-15</lastmod>
+    <loc>http://koneksje.pl/kajaki/index.html</loc>
+    <lastmod>2022-05-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20220418_145543.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20220418_145543.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20220424_104122.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20220424_104122.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20220424_121507.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20220424_121507.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20220423_095318_001.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20220423_095318_001.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/traper.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/traper.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20220421_104702.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20220421_104702.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20210905_093339.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20210905_093339.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20210717_105402.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20210717_105402.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20220506_151030.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20220506_151030.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20220506_145138.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20220506_145138.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/wioslo-cale-egalis-swift-alu.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/wioslo-cale-egalis-swift-alu.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/1858x396.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/1858x396.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/tour%20470.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/tour%20470.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20220410_161347.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20220410_161347.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20211205_103206.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20211205_103206.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://responsive-muse.com/images/20220418_102541-crop-u8917.jpg</image:loc>
+      <image:loc>http://koneksje.pl/kajaki/images/20220418_102541-crop-u8917.jpg</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://koneksje.pl/kajaki/trasy-stanica-policko.html</loc>
+    <lastmod>2022-05-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
